@@ -1,0 +1,5 @@
+{
+  "name": "Stash - Personal Link Aggregator",
+  "description": "A web app to save and categorize web links. The app uses AI to automatically read the article and generate a concise summary and relevant tags for you.",
+  "requestFramePermissions": []
+}
